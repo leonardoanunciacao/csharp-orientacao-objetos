@@ -1,0 +1,14 @@
+/Users/leonardoanunciacao/csharp-course/csharp-orientacao-objetos/bin/Debug/net8.0/csharp-orientacao-objetos
+/Users/leonardoanunciacao/csharp-course/csharp-orientacao-objetos/bin/Debug/net8.0/csharp-orientacao-objetos.deps.json
+/Users/leonardoanunciacao/csharp-course/csharp-orientacao-objetos/bin/Debug/net8.0/csharp-orientacao-objetos.runtimeconfig.json
+/Users/leonardoanunciacao/csharp-course/csharp-orientacao-objetos/bin/Debug/net8.0/csharp-orientacao-objetos.dll
+/Users/leonardoanunciacao/csharp-course/csharp-orientacao-objetos/bin/Debug/net8.0/csharp-orientacao-objetos.pdb
+/Users/leonardoanunciacao/csharp-course/csharp-orientacao-objetos/obj/Debug/net8.0/csharp-orientacao-objetos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardoanunciacao/csharp-course/csharp-orientacao-objetos/obj/Debug/net8.0/csharp-orientacao-objetos.AssemblyInfoInputs.cache
+/Users/leonardoanunciacao/csharp-course/csharp-orientacao-objetos/obj/Debug/net8.0/csharp-orientacao-objetos.AssemblyInfo.cs
+/Users/leonardoanunciacao/csharp-course/csharp-orientacao-objetos/obj/Debug/net8.0/csharp-orientacao-objetos.csproj.CoreCompileInputs.cache
+/Users/leonardoanunciacao/csharp-course/csharp-orientacao-objetos/obj/Debug/net8.0/csharp-orientacao-objetos.dll
+/Users/leonardoanunciacao/csharp-course/csharp-orientacao-objetos/obj/Debug/net8.0/refint/csharp-orientacao-objetos.dll
+/Users/leonardoanunciacao/csharp-course/csharp-orientacao-objetos/obj/Debug/net8.0/csharp-orientacao-objetos.pdb
+/Users/leonardoanunciacao/csharp-course/csharp-orientacao-objetos/obj/Debug/net8.0/csharp-orientacao-objetos.genruntimeconfig.cache
+/Users/leonardoanunciacao/csharp-course/csharp-orientacao-objetos/obj/Debug/net8.0/ref/csharp-orientacao-objetos.dll
