@@ -12,3 +12,4 @@
 /Users/leonardoanunciacao/csharp-course/csharp-orientacao-objetos/obj/Debug/net8.0/csharp-orientacao-objetos.pdb
 /Users/leonardoanunciacao/csharp-course/csharp-orientacao-objetos/obj/Debug/net8.0/csharp-orientacao-objetos.genruntimeconfig.cache
 /Users/leonardoanunciacao/csharp-course/csharp-orientacao-objetos/obj/Debug/net8.0/ref/csharp-orientacao-objetos.dll
+/Users/leonardoanunciacao/csharp-course/csharp-orientacao-objetos/obj/Debug/net8.0/csharp-orientacao-objetos.sourcelink.json
