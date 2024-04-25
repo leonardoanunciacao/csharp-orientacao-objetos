@@ -1,15 +1,22 @@
-﻿Musica musica1 = new Musica();
-Musica musica2 = new Musica();
+﻿// Instanciar objeto do tipo Album
+Album aNightAtTheOpera = new Album();
 
-musica1.Nome = "Roxane";
-musica1.Artista = "The Police";
-musica1.Duracao = 273;
-musica1.Disponivel = true;
+// Atribuir valores para propriedades de aNightAtTheOpera
+aNightAtTheOpera.Nome = "A night at the opera";
+aNightAtTheOpera.Artista = "Queen";
 
-musica2.Nome = "Vertigo";
-musica2.Artista = "U2";
-musica2.Duracao = 367;
-musica2.Disponivel = false;
+// Instanciar objetos do tipo Musica
+Musica loveOfMyLife = new Musica();
+Musica bohemianRhapsody = new Musica();
 
-musica1.ExibirFichaTecnica();
-musica2.ExibirFichaTecnica();
+// Atribuir valores para as propriedades dos objetos do tipo Musica.
+loveOfMyLife.Nome = "Love of My Life";
+loveOfMyLife.Duracao = 213;
+bohemianRhapsody.Nome = "Bohemian Rhapsody";
+bohemianRhapsody.Duracao = 354;
+;
+// Adicionar objeto do tipo Musica à lista de músicas do objeto do tipo Album
+aNightAtTheOpera.AdicionaMusica(loveOfMyLife);
+aNightAtTheOpera.AdicionaMusica(bohemianRhapsody);
+
+aNightAtTheOpera.ExibeListaDeMusicas();
