@@ -1,22 +1,28 @@
-﻿// Instanciar objeto do tipo Album
-Album aNightAtTheOpera = new Album();
+﻿Banda queen = new("Queen");
 
-// Atribuir valores para propriedades de aNightAtTheOpera
-aNightAtTheOpera.Nome = "A night at the opera";
-aNightAtTheOpera.Artista = "Queen";
+Musica loveOfMyLife = new("Love of My Life", queen)
+{
+    Duracao = 204,
+    Disponivel = true
+};
 
-// Instanciar objetos do tipo Musica
-Musica loveOfMyLife = new Musica();
-Musica bohemianRhapsody = new Musica();
+Musica bohemianRhapsody = new("Bohemian Rhapsody", queen)
+{
+    Duracao = 354,
+    Disponivel = false
+};
 
-// Atribuir valores para as propriedades dos objetos do tipo Musica.
-loveOfMyLife.Nome = "Love of My Life";
-loveOfMyLife.Duracao = 213;
-bohemianRhapsody.Nome = "Bohemian Rhapsody";
-bohemianRhapsody.Duracao = 354;
-;
-// Adicionar objeto do tipo Musica à lista de músicas do objeto do tipo Album
+Album aNightAtTheOpera = new("A Night At The Opera", queen);
+
 aNightAtTheOpera.AdicionaMusica(loveOfMyLife);
 aNightAtTheOpera.AdicionaMusica(bohemianRhapsody);
 
+queen.AdicionarAlbum(aNightAtTheOpera);
+
+queen.ExibirDiscografia();
 aNightAtTheOpera.ExibeListaDeMusicas();
+
+System.Console.WriteLine("\n");
+loveOfMyLife.ExibirFichaTecnica();
+System.Console.WriteLine("\n");
+bohemianRhapsody.ExibirFichaTecnica();
