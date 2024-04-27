@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp-orientacao-objetos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d48892b89bad3aa6b228bf3353c8ad5876ef6549")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d993fc878e074c91fef4aa83add391b4c464a183")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp-orientacao-objetos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp-orientacao-objetos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
